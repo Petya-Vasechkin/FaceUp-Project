@@ -4,7 +4,7 @@ const pool = new Pool({
     user: 'postgres',
     host: 'localhost',
     database: 'notifications_db_faceup',
-    password: '22081998Pav', // Change password
+    password: 'Change password', // Change password
     port: 5432
 });
 
